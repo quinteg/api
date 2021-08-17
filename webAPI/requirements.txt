@@ -1,0 +1,10 @@
+Flask==1.1.2
+Flask-Bootstrap==3.3.7.1
+Flask-Login==0.5.0
+Flask-WTF==0.14.3
+numpy==1.20.2
+Werkzeug==1.0.1
+pandas==1.2.3
+xlrd==2.0.1
+openpyxl==3.0.7
+
