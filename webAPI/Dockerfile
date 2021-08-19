@@ -1,6 +1,6 @@
-FROM python:3.9.1
-WORKDIR /ikt-API 
+FROM python:3.7.3
+WORKDIR /web-api 
 
-ADD . /ikt-API
+ADD . /web-api
 RUN pip install --no-cache-dir -r requirements.txt
 CMD ["python", "app.py"]
